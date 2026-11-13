@@ -1,0 +1,4 @@
+# No extra dependencies.
+# Mask Cleanup uses torch + numpy + opencv-python, all shipped with ComfyUI.
+# Neither node imports transformers/diffusers, so installing this pack is
+# safe for environments with pinned versions.
